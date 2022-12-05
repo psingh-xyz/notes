@@ -1,0 +1,10 @@
+# remove a file
+rm <file-name>
+
+# remove directory
+rm -rf <dir-name>
+
+# create new file
+touch <file-name>
+
+# 
